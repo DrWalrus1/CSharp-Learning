@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1.csproj", "{19B3727C-2A3A-452B-A5F9-A594D0112852}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{19B3727C-2A3A-452B-A5F9-A594D0112852}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Todo List API", "..\Money Bucket API\Todo List API.csproj", "{7184B61E-D83D-418B-BF13-8823BC6BE442}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Todo List API", "api-project\Todo List API.csproj", "{C6322586-4A71-40AC-A7AA-529586A0D20F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{19B3727C-2A3A-452B-A5F9-A594D0112852}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19B3727C-2A3A-452B-A5F9-A594D0112852}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19B3727C-2A3A-452B-A5F9-A594D0112852}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7184B61E-D83D-418B-BF13-8823BC6BE442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7184B61E-D83D-418B-BF13-8823BC6BE442}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7184B61E-D83D-418B-BF13-8823BC6BE442}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7184B61E-D83D-418B-BF13-8823BC6BE442}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6322586-4A71-40AC-A7AA-529586A0D20F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6322586-4A71-40AC-A7AA-529586A0D20F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6322586-4A71-40AC-A7AA-529586A0D20F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6322586-4A71-40AC-A7AA-529586A0D20F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
